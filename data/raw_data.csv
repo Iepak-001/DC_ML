@@ -1,0 +1,5 @@
+session_duration,data_usage,device_type,network_type,time_of_day,app_category
+120,3500,Laptop,5G,Evening,Streaming
+30,250,Smartphone,WiFi,Morning,Social Media
+90,1800,Laptop,5G,Evening,Gaming
+20,100,Smartphone,4G,Afternoon,Social Media
